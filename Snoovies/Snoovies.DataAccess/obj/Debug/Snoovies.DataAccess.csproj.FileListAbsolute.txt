@@ -1,0 +1,80 @@
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+C:\UclaExt\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+C:\UclaExt\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+C:\UclaExt\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb
+C:\UclaExt\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+C:\UclaExt\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+C:\UclaExt\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+C:\UclaExt\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+C:\UclaExt\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+C:\UclaExt\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+C:\UclaExt\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb
+C:\Development\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+C:\Development\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+C:\Development\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+C:\Development\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+C:\Development\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+C:\Development\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+C:\Development\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+C:\Development\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+C:\Development\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+C:\Development\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll.config
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\bin\Debug\Snoovies.Domain.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\Snoovies.DataAccess\obj\Debug\Snoovies.DataAccess.pdb

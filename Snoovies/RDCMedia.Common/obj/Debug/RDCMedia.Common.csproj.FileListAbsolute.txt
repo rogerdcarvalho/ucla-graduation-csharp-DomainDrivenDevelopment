@@ -1,0 +1,36 @@
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.csprojResolveAssemblyReference.cache
+C:\UclaExt\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+C:\UclaExt\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+C:\UclaExt\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+C:\UclaExt\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.csprojResolveAssemblyReference.cache
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb
+C:\Development\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+C:\Development\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+C:\Development\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.csprojResolveAssemblyReference.cache
+C:\Development\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+C:\Development\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\RDCMedia.Common\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\RDCMedia.Common\obj\Debug\RDCMedia.Common.pdb

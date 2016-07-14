@@ -1,0 +1,77 @@
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Development\Snoovies\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Development\Snoovies\UnitTests\bin\Debug\UnitTests.dll
+C:\Development\Snoovies\UnitTests\bin\Debug\UnitTests.pdb
+C:\Development\Snoovies\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.dll
+C:\Development\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.dll
+C:\Development\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.dll
+C:\Development\Snoovies\UnitTests\bin\Debug\MySql.Data.dll
+C:\Development\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.pdb
+C:\Development\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.pdb
+C:\Development\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.pdb
+C:\Development\Snoovies\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Snoovies\UnitTests\obj\Debug\UnitTests.dll
+C:\Development\Snoovies\UnitTests\obj\Debug\UnitTests.pdb
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\UnitTests.dll.config
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\UnitTests.dll
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\UnitTests.pdb
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.dll
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.dll
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.dll
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\MySql.Data.dll
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.pdb
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.pdb
+C:\UclaExt\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.pdb
+C:\UclaExt\Snoovies\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\UclaExt\Snoovies\UnitTests\obj\Debug\UnitTests.dll
+C:\UclaExt\Snoovies\UnitTests\obj\Debug\UnitTests.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\UnitTests.dll.config
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\UnitTests.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\UnitTests.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\bin\Debug\Snoovies.Domain.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\obj\Debug\UnitTests.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\UnitTests\obj\Debug\UnitTests.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\UnitTests.dll.config
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\UnitTests.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\UnitTests.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\Snoovies.Domain.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\bin\Debug\Snoovies.Domain.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\obj\Debug\UnitTests.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\UnitTests\obj\Debug\UnitTests.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\UnitTests.dll.config
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\UnitTests.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\UnitTests.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\RDCMedia.Common.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\Snoovies.DataAccess.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\Snoovies.Domain.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\MySql.Data.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\RDCMedia.Common.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\Snoovies.DataAccess.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\bin\Debug\Snoovies.Domain.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\obj\Debug\UnitTests.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\UnitTests\obj\Debug\UnitTests.pdb

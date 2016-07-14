@@ -1,0 +1,174 @@
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\AdminUI.exe
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\AdminUI.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\MainWindow.baml
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\MainWindow.g.cs
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\App.g.cs
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.g.resources
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.exe
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.pdb
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\AdminUI.exe.config
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\AdminUI.exe
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\AdminUI.pdb
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.dll
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.dll
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.dll
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.pdb
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.pdb
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.pdb
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\MainWindow.baml
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\MainWindow.g.cs
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\App.g.cs
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI.g.resources
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI.exe
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI.pdb
+C:\UclaExt\Snoovies\AdminUI\bin\Debug\MySql.Data.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\AdminUI.exe
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\AdminUI.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\MySql.Data.dll
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.pdb
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\MainWindow.baml
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\DetailWindow.g.cs
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\MainWindow.g.cs
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\App.g.cs
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.lref
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\DetailWindow.baml
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI.g.resources
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI.exe
+C:\Virtual Storage\Dropbox\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI.pdb
+C:\Development\Snoovies\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI.exe
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI.pdb
+C:\Development\Snoovies\AdminUI\bin\Debug\AdminUI.exe
+C:\Development\Snoovies\AdminUI\bin\Debug\AdminUI.pdb
+C:\Development\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.dll
+C:\Development\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.dll
+C:\Development\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.dll
+C:\Development\Snoovies\AdminUI\bin\Debug\MySql.Data.dll
+C:\Development\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.pdb
+C:\Development\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.pdb
+C:\Development\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.pdb
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Development\Snoovies\AdminUI\obj\Debug\MainWindow.baml
+C:\Development\Snoovies\AdminUI\obj\Debug\DetailWindow.g.cs
+C:\Development\Snoovies\AdminUI\obj\Debug\MainWindow.g.cs
+C:\Development\Snoovies\AdminUI\obj\Debug\App.g.cs
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.lref
+C:\Development\Snoovies\AdminUI\obj\Debug\DetailWindow.baml
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI.g.resources
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Development\Snoovies\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+C:\Development\Snoovies\AdminUI\obj\Debug\App.baml
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\App.baml
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\DetailWindow.g.cs
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.lref
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\DetailWindow.baml
+X:\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\App.baml
+X:\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\DetailWindow.g.cs
+X:\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\MainWindow.g.cs
+X:\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\App.g.cs
+X:\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.lref
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\AdminUI.exe.config
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\App.baml
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\DetailWindow.g.cs
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\MainWindow.g.cs
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\App.g.cs
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI_MarkupCompile.lref
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\AdminUI.exe
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\AdminUI.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\Snoovies.Domain.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\bin\Debug\Snoovies.Domain.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\DetailWindow.baml
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\MainWindow.baml
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI.g.resources
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI.exe
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\AdminUI.exe.config
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\AdminUI.exe
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\AdminUI.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\RDCMedia.Common.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\Snoovies.DataAccess.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\Snoovies.Domain.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\MySql.Data.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\RDCMedia.Common.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\Snoovies.DataAccess.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\bin\Debug\Snoovies.Domain.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\App.baml
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\DetailWindow.g.cs
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\MainWindow.g.cs
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\App.g.cs
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI_MarkupCompile.lref
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\DetailWindow.baml
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\MainWindow.baml
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI.g.resources
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI.exe
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\AdminUI\obj\Debug\AdminUI.pdb
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\DatabaseLoading.baml
+C:\UclaExt\Snoovies\AdminUI\obj\Debug\DatabaseLoading.g.cs
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\AdminUI.exe
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\AdminUI.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\MySql.Data.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\bin\Debug\Snoovies.Domain.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\DatabaseLoading.baml
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\App.baml
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\DatabaseLoading.g.cs
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\DetailWindow.g.cs
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\MainWindow.g.cs
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\App.g.cs
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.cache
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI_MarkupCompile.lref
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\DetailWindow.baml
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\MainWindow.baml
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.g.resources
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.exe
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\Snoovies\AdminUI\obj\Debug\AdminUI.pdb

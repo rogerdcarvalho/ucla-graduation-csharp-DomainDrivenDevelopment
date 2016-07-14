@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snoovies.DataAccess", "Snoovies.DataAccess\Snoovies.DataAccess.csproj", "{68DABA08-5ABA-428A-AD4B-F761E1034C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snoovies.Domain", "Snoovies.Domain\Snoovies.Domain.csproj", "{68D97321-651A-47FC-B1AB-4C9096755555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDCMedia.Common", "RDCMedia.Common\RDCMedia.Common.csproj", "{153C8D0E-E903-4801-9EA5-3B1448C45A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snoovies.PlayGround", "Snoovies.PlayGround\Snoovies.PlayGround.csproj", "{D1292BEA-49EA-4076-B6CD-310E6F3E37A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{6AFCE8E7-59AF-4F5E-9E8B-E99771BA4E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminUI", "AdminUI\AdminUI.csproj", "{EB5216E7-E084-4282-80A5-73166C75C52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DABA08-5ABA-428A-AD4B-F761E1034C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DABA08-5ABA-428A-AD4B-F761E1034C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DABA08-5ABA-428A-AD4B-F761E1034C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DABA08-5ABA-428A-AD4B-F761E1034C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D97321-651A-47FC-B1AB-4C9096755555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D97321-651A-47FC-B1AB-4C9096755555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D97321-651A-47FC-B1AB-4C9096755555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D97321-651A-47FC-B1AB-4C9096755555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153C8D0E-E903-4801-9EA5-3B1448C45A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153C8D0E-E903-4801-9EA5-3B1448C45A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153C8D0E-E903-4801-9EA5-3B1448C45A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153C8D0E-E903-4801-9EA5-3B1448C45A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1292BEA-49EA-4076-B6CD-310E6F3E37A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1292BEA-49EA-4076-B6CD-310E6F3E37A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1292BEA-49EA-4076-B6CD-310E6F3E37A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1292BEA-49EA-4076-B6CD-310E6F3E37A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFCE8E7-59AF-4F5E-9E8B-E99771BA4E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFCE8E7-59AF-4F5E-9E8B-E99771BA4E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFCE8E7-59AF-4F5E-9E8B-E99771BA4E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFCE8E7-59AF-4F5E-9E8B-E99771BA4E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5216E7-E084-4282-80A5-73166C75C52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5216E7-E084-4282-80A5-73166C75C52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5216E7-E084-4282-80A5-73166C75C52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5216E7-E084-4282-80A5-73166C75C52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

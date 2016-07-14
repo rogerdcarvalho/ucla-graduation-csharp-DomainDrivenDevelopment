@@ -1,0 +1,72 @@
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe.config
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.dll
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.pdb
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.exe
+C:\Users\Roger\Documents\Visual Studio 2013\Projects\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.pdb
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe.config
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.pdb
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.dll
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.dll
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.dll
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.pdb
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.pdb
+C:\Development\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.pdb
+C:\Development\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.csprojResolveAssemblyReference.cache
+C:\Development\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.exe
+C:\Development\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.pdb
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe.config
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.pdb
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.dll
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.dll
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.dll
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.pdb
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.pdb
+C:\UclaExt\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.pdb
+C:\UclaExt\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.csprojResolveAssemblyReference.cache
+C:\UclaExt\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.exe
+C:\UclaExt\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe.config
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.csprojResolveAssemblyReference.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.exe
+X:\UCLA\CSharp 2\Solutions\Snoovies\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe.config
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.dll
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.pdb
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.csprojResolveAssemblyReference.cache
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.exe
+X:\UCLA\CSharp 2\Solutions\Snoovies-new\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe.config
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.exe
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.PlayGround.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.dll
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\RDCMedia.Common.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.DataAccess.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\bin\Debug\Snoovies.Domain.pdb
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.exe
+\\Mac\Dropbox\UCLA\CSharp 2\Solutions\Snoovies-1711\Snoovies-new\Snoovies.PlayGround\obj\Debug\Snoovies.PlayGround.pdb
